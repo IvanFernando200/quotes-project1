@@ -1,0 +1,11 @@
+.card__button {
+  width: fit-content;
+  align-self: center;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-size: 1.1em;
+  background-color: rgba(200, 219, 219, 0.724);
+  border: none;
+  border-radius: 0.2em;
+  font-family: cursive;
+}
